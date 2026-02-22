@@ -1,0 +1,17 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+	:root {
+		font-family: system-ui, sans-serif;
+		font-synthesis: none;
+		text-rendering: optimizeLegibility;
+		-webkit-font-smoothing: antialiased;
+		-moz-osx-font-smoothing: grayscale;
+	}
+
+	body {
+		@apply m-0 min-w-[320px] min-h-screen bg-white text-gray-900 dark:bg-[#242424] dark:text-white/90;
+	}
+}
