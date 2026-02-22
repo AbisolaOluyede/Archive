@@ -1,4 +1,4 @@
-# 📝 Archive
+# Archive
 
 A modern, high-performance blog application built with **Vue 3** and **Vite**. This project demonstrates essential Vue patterns including dynamic routing, asynchronous component handling, and robust error management.
 
