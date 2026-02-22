@@ -4,7 +4,7 @@ A modern, high-performance blog application built with **Vue 3** and **Vite**. T
 
 ---
 
-## 🚀 Key Features
+## Key Features
 
 - **Dynamic Routing:** Seamless navigation between the Home feed and individual Post Detail pages.
 - **API Data Fetching:** Real-time data retrieval for blog titles and content.
@@ -15,7 +15,7 @@ A modern, high-performance blog application built with **Vue 3** and **Vite**. T
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 | Tool | Purpose |
 | :--- | :--- |
@@ -26,7 +26,7 @@ A modern, high-performance blog application built with **Vue 3** and **Vite**. T
 
 ---
 
-## 📦 Installation & Setup
+##  Installation & Setup
 
 1. **Clone the repository:**
 
